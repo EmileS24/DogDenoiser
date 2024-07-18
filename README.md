@@ -1,0 +1,1 @@
+Implemented a linear (project to a linear subspace spanned by top Principal Components) and nonlinear denoiser (Using a UNet model, MSE Loss, SGD as optimizer) for images of dogs with Gaussian noise from CIFAR-10.
